@@ -3,6 +3,7 @@ const Container = () => {
     <section id="container">
       <div className="inner-container">
         <img className="pfp" src="https://wafuu.com/cdn/shop/products/japan-capcom-store-limited-tsum-mascot-plush-devil-may-cry-5-dantenerovvergil-411407_1120x.jpg?v=1695255379" alt="profile pic"/>
+        <div className="status" style={{color: "rgb(16, 5, 34)", textAlign: "center", fontSize: "20px"}}>-</div>
         <header className="banner"></header>
         <h2 className="text">Omg Name</h2>
         <p className="text subtext">omg Subtext</p>
