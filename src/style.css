@@ -69,6 +69,18 @@ body {
     overflow: auto;
 }
 
+.header-inner {
+    font-family: "Parkinsans", sans-serif;
+    font-weight: 100;
+    margin: 5px 0 0 10px;
+    color: white;
+}
+
+hr {
+    width: 95%;
+    opacity: 0.2;
+}
+
 .inner-text {
     padding: 5px;
     opacity: 0.8;
